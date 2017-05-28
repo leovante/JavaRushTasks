@@ -16,11 +16,12 @@ public class Solution {
     }
 
     public static long getTimeMsOfInsert(List list) {
-        //напишите тут ваш код
+        long st, en;
 
+        st = System.currentTimeMillis();
         insert10000(list);
-
-        //напишите тут ваш код
+        en = System.currentTimeMillis();
+        return en-st;
 
     }
 
