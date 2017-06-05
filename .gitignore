@@ -32,3 +32,28 @@ hs_err_pid*
 JavaRushPlugin.properties
 JavaRushTasks.iml
 "\320\230\320\275\321\201\321\202\321\200\321\203\320\272\321\206\320\270\321\217.png"
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+out/
