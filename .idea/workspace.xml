@@ -2,314 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/.idea/_JavaRushHomeWork.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/JavaRushHomeWork.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/JavaRushPlugin.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level01/lesson04/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level01/lesson04/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level01/lesson04/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level01/lesson04/task06/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level01/lesson04/task07/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson03/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson03/task02/ConvertEurToUsd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson03/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson03/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task03/Solution$Protos.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task03/Solution$Terran.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task03/Solution$Zerg.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson04/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson05/task01/Solution$Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson05/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson05/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson05/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Blue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Green.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Indigo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Orange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Red.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Violet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution$Yellow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson06/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson08/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson08/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson08/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson08/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson08/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson12/home01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson12/home02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level03/lesson12/home03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson01/task01/Solution$Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson01/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson01/task02/Solution$Apple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson01/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson02/task01/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson02/task02/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson02/task03/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson02/task04/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson02/task05/Solution$Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson02/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson04/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson04/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson04/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson04/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson04/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task06/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task07/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson06/task08/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson07/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson07/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson07/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson10/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson10/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson10/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson10/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson10/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson13/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson13/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson13/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson13/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson13/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level04/lesson16/home04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task01/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task02/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task02/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task03/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task03/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson05/task04/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson08/task01/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson08/task02/Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson08/task03/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson08/task04/ConsoleReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level06/lesson08/task05/StringHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson04/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson04/task02/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson04/task03/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson04/task04/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson04/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson06/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson06/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson09/task01/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/out/production/_JavaRushHomeWork/com/javarush/test/level07/lesson09/task05/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/JavaRushPlugin.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level01/lesson04/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level01/lesson04/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level01/lesson04/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level01/lesson04/task06/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level01/lesson04/task07/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson03/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson03/task02/ConvertEurToUsd.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson03/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson03/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson04/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson04/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson04/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson04/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson04/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson05/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson06/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson06/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson06/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson06/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson06/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson08/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level03/lesson12/home03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson01/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson01/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task01/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task02/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task03/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task04/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson02/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson04/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task06/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task07/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson06/task08/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson07/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson10/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson13/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level04/lesson16/home04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task01/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task02/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task03/Dog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson05/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson07/task02/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson07/task03/Dog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson07/task05/Rectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task01/Friend.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task02/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task03/Dog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson09/task05/Rectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/bonus03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level05/lesson12/home05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task01/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task02/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson05/task04/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task01/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task02/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task03/Util.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level06/lesson08/task05/StringHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task02/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task03/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task04/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson04/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson06/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task01/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushHomeWork/JavaRushHomeWork/src/com/javarush/test/level07/lesson09/task05/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/dictionaries/User01.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/dictionaries/leovante.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/kotlinc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/1.JavaSyntax.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/Quest.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0129/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0129/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0130/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0130/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0131/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0131/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0132/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0132/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0133/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0133/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0134/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0134/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0135/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0135/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0136/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0136/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0137/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0137/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0138/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0138/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0139/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0139/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0140/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task01/task0140/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task03/task0324/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task03/task0324/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0412/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0412/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0413/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0413/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0414/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0414/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0422/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task04/task0422/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task06/task0613/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task06/task0613/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0701/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0701/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0714/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0714/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0718/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0718/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0722/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task07/task0722/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0801/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0801/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0802/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0802/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0803/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0803/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0804/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0804/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0805/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0805/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0806/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0806/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0807/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0807/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0808/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0808/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0809/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0809/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0810/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0810/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0811/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0811/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0812/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0812/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0813/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task08/task0813/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task09/task0917/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task09/task0917/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task10/task1001/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task10/task1001/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task10/task1002/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/task10/task1002/Условие.jrtc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/2.JavaCore.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/Quest.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/3.JavaMultithreading.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/3.JavaMultithreading/src/Quest.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/4.JavaCollections/4.JavaCollections.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/4.JavaCollections/src/Quest.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/5.OnlineInternship/5.OnlineInternship.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/5.OnlineInternship/src/Internship.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushPlugin.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/JavaRushTasks.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaRushTasks/Инструкция.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushTasks.iws" />
@@ -331,7 +24,25 @@
     <favorites_list name="JavaRushTasks" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Условие.jrtc">
+          <provider selected="true" editor-type-id="EditorTypeId">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -937,16 +648,24 @@
       <workItem from="1485161981498" duration="29000" />
       <workItem from="1485162014696" duration="83000" />
       <workItem from="1485177835943" duration="100000" />
-      <workItem from="1496656135591" duration="216000" />
+      <workItem from="1496656135591" duration="323000" />
     </task>
+    <task id="LOCAL-00001" summary="с работы">
+      <created>1496656372177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496656372177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1103000" />
+    <option name="totallyTimeSpent" value="1210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -963,7 +682,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23454158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23454158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -992,6 +711,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="с работы" />
+    <option name="LAST_COMMIT_MESSAGE" value="с работы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1134,6 +857,19 @@
     <entry file="file://$PROJECT_DIR$/Инструкция.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
